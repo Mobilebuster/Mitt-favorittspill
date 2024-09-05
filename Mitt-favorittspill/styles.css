@@ -1,0 +1,47 @@
+  
+body  {      
+       background-image: url(/Bilder/Bakgrunn.jpeg);
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-position: 50%;
+       background-size: cover;
+        
+      }
+
+.tekst{
+
+      text-align: center;
+        
+      }
+
+.header{
+      font-size: 3vw;
+      background-color: rgba(127, 168, 192, 0.685);
+
+      margin-left: 20%;
+      margin-right: 20%; 
+        }
+
+
+.subtitle{
+      font-size: 2.5vw;
+      margin: 8%;
+        }
+        
+
+.spilltekst{
+
+      margin: 50px;
+      padding: 2%;
+
+      font-size: 2vw;
+
+      background-color: rgba(240, 248, 255, 0.87);  
+        }
+
+.media{
+
+    padding: 6%;
+
+    }
+
