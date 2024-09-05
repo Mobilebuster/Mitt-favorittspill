@@ -1,47 +1,58 @@
   
 body  {      
-       background-image: url(/Bilder/Bakgrunn.jpeg);
-       background-repeat: no-repeat;
-       background-attachment: fixed;
-       background-position: 50%;
-       background-size: cover;
-        
-      }
+      background-image: url(/Bilder/Bakgrunn.jpeg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: 50%;
+      background-size: cover;
+       
+     }
 
-.tekst{
+.alt{
 
-      text-align: center;
-        
-      }
+     text-align: center;
+       
+     }
 
 .header{
-      font-size: 3vw;
-      background-color: rgba(127, 168, 192, 0.685);
+     font-size: 2vw;
+     background-color: rgba(127, 168, 192, 0.685);
 
-      margin-left: 20%;
-      margin-right: 20%; 
-        }
+     margin-left: 20%;
+     margin-right: 20%;
+     margin-bottom: 8%; 
+
+       }
 
 
 .subtitle{
-      font-size: 2.5vw;
-      margin: 8%;
-        }
-        
+     font-size: 2vw;
+     margin-bottom: 5%;
+       }
+       
 
 .spilltekst{
 
-      margin: 50px;
-      padding: 2%;
+     margin: 50px;
+     padding: 2%;
 
-      font-size: 2vw;
+     font-size: 1.2vw;
+     line-height: 225%;
 
-      background-color: rgba(240, 248, 255, 0.87);  
-        }
+     background-color: rgba(240, 248, 255, 0.87);  
+     margin-left: 10%;
+     margin-right: 10%;
+ 
+       }
+
+.mekanikk{
+     margin-top: 5%;
+     margin-left: 10%;
+     margin-right: 10%;
+}
 
 .media{
 
-    padding: 6%;
-
-    }
+   padding: 5%;
+   }
 
