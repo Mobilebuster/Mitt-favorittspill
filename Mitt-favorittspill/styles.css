@@ -50,7 +50,7 @@ body  {
      margin: 50px;
      padding: 2%;
 
-     font-size: 1.2vw;
+     font-size: 1.5vw;
      line-height: 225%;
 
      background-color: rgba(240, 248, 255, 0.87);  
@@ -66,6 +66,7 @@ body  {
 
 
 .mekanikktekst{
+     font-size: 1.5vw;
      margin-top: 5%;
      margin-left: 10%;
      margin-right: 10%;
