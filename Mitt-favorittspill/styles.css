@@ -5,14 +5,23 @@ body  {
       background-attachment: fixed;
       background-position: 50%;
       background-size: cover;
-       
+     
      }
+
+
+     /*jeg setter bakgrunnen og gjør at den er midtstilt og at den dekker hele skjermen*/
+
 
 .alt{
 
      text-align: center;
        
      }
+
+
+     /*her midtstiller jeg all teksten og media som er på nettsiden*/
+
+
 
 .header{
      font-size: 2vw;
@@ -23,6 +32,11 @@ body  {
      margin-bottom: 8%; 
 
        }
+
+
+       /*Her bestemmer jeg hvor stor fonten er, og jeg bruker vw fordi den forandrer seg basert på 
+       hvor stor viewporten er og jeg setter bakgrunnen til tittelen, og bestemmer hvordan den ser ut*/
+
 
 
 .subtitle{
@@ -45,7 +59,13 @@ body  {
  
        }
 
-.mekanikk{
+
+
+     /*jeg setter linjeavstanden, fontstørrelsen, bakgrunnsfargen, og hvor stor den er*/
+
+
+
+.mekanikktekst{
      margin-top: 5%;
      margin-left: 10%;
      margin-right: 10%;
@@ -56,3 +76,5 @@ body  {
    padding: 5%;
    }
 
+
+     /*padding gjør at det blir avstand mellom dette objektet og de andre*/
